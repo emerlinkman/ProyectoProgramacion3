@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1748710796 source:d:\college shit\u shit\progra iii\proyecto final final\main.cpp
+	<iostream>
+	<string>
+	<limits>
+	<direct.h>
+	<windows.h>
+	<fstream>
+	<cstdint>
+	<vector>
+	<map>
+	<cstdlib>
+
